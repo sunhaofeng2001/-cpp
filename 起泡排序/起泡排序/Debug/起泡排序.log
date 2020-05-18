@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\孙浩峰\Desktop\数据结构\起泡排序\起泡排序\源.cpp(18,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\孙浩峰\Desktop\数据结构\起泡排序\起泡排序\源.cpp(86,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  起泡排序.vcxproj -> C:\Users\孙浩峰\Desktop\数据结构\起泡排序\Debug\起泡排序.exe
